@@ -15,3 +15,9 @@ Atualmente, estou desenvolvendo meus conhecimentos em JavaScript, PHP, C e MySQL
 ### Ferramentas
 - Figma
 - Visual Studio Code
+
+## 📂 Projetos
+
+Atualmente, estou desenvolvendo pequenos projetos de estudo para colocar em prática meus conhecimentos e construir meu portfólio.
+
+Em breve, esta seção será atualizada com novos projetos.
